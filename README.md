@@ -11,8 +11,7 @@ Some things I like (not necessarily in order):
 - Cycling 🚵
 - Sunshine ☀️
 - Music 🎶
-
-![Piano Sticker by crwnking](https://github.com/user-attachments/assets/ca0a103c-8c40-4e0f-bd89-2ee785c43d48)
+<img src="https://github.com/user-attachments/assets/ca0a103c-8c40-4e0f-bd89-2ee785c43d48" alt="piano sticker" width="200"/>
 
 <!--
 **dwilla/dwilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
