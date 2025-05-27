@@ -1,6 +1,6 @@
 ## Hey hey hey 🙋‍♂️
 
-### I'm Drew and you can get a taste for what I'm passionate about here: [My Website](drewillard.com)
+### I'm Drew and you can get a taste for what I'm passionate about here: [drewillard.com](https://drewillard.com/)
 
 Some of my projects are for work, some for other folks I care about, some for fun, and some for all three 😁
 
